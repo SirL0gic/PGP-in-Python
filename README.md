@@ -6,4 +6,5 @@ The popularity of PGP is based on two factors. The first is that the system was 
 
 This is a simple python script to interact with pgp functionality. 
 
-Select Mode 1)Record 2)Verify 3)Import Key 4)Search Key 5)Send Key 6)Encrypt: 7)Decrypt:
+Select Mode:
+1)Record 2)Verify 3)Import Key 4)Search Key 5)Send Key 6)Encrypt: 7)Decrypt
